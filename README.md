@@ -1,26 +1,29 @@
-# CLINICK.io
+# CLINICK.io ⚡
 
-<div align="center"><img src="https://media.licdn.com/dms/image/v2/D4D16AQFlE-unQT0C6Q/profile-displaybackgroundimage-shrink_350_1400/B4DZkd.8QUJIAY-/0/1757144681933?e=1794441600&v=beta&t=7GA9_ZTJtLtfKZy2BPJLHKaHdRQz6PdpAaak1UHmyUA" alt="Airik Yousefi banner" width="100%" /></div>
+> A modern web platform concept — UI/UX and front-end engineering by **Airik Yousefi**.
 
-A modern web project by **Airik Yousefi**.
+![Status](https://img.shields.io/badge/Status-In_Development-f4c452?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Platform_%26_UI-ff5c6c?style=flat-square) ![Design](https://img.shields.io/badge/Design-Modern_UI%2FUX-62dc87?style=flat-square)
 
-## Project focus
+## About
 
-- Clean, responsive and professional web interface
-- Structured UI components for a smooth user experience
-- Practical web development with performance in mind
-- Portfolio-ready presentation for a real-world digital product
+**CLINICK.io** is a modern web platform project with a strong emphasis on interface design, user experience and speed. The goal: prove that a service platform can feel premium, load instantly and guide the user without friction — the same principles I apply to client work at [RasaWeb Digital Marketing](https://airikyousefi.ir/).
 
-## Technologies
+The source code is being organized and will be published here. Live production projects are available at my [portfolio](https://airikyousefi.ir/portfolio/).
 
-ASP.NET · C# · HTML · CSS · JavaScript · Responsive UI
+## Highlights
 
-## Links
+- **Product-grade UI** — consistent components, spacing and typography
+- **UX-driven flows** — every screen designed around a clear user goal
+- **Fast by default** — lean assets, smooth interactions, no bloat
+- **Scalable structure** — ready to grow from landing page to full platform
 
-- 🌐 [Website](https://airikyousefi.ir/)
-- 🧩 [Portfolio](https://airikyousefi.ir/portfolio/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/airik-yousefi-4719b9381/)
+## Developer
 
-## Author
+Built by [Airik Yousefi](https://github.com/airikyousefi) — Web Designer & Developer.
 
-**Airik Yousefi** — Web Designer & Developer
+- 🌐 Website: [airikyousefi.ir](https://airikyousefi.ir/)
+- 💼 Portfolio: [airikyousefi.ir/portfolio](https://airikyousefi.ir/portfolio/)
+
+---
+
+If you like this project, consider **following me** on GitHub — more real-world web projects are on the way.
